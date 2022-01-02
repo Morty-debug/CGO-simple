@@ -1,4 +1,4 @@
-// Las lineas que contienen #cgo no son comentarios, pero esta linea SI
+// Las lineas que contienen # no son comentarios, pero esta linea SI
 package main  
 /* 
 #cgo  CFLAGS:  -I./include 
