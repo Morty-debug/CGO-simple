@@ -1,4 +1,4 @@
-// Las lineas que contienen # no son comentarios, pero esta linea SI
+// Las lineas comentadas antes del import "C" es codigo C para el compilador CGO
 package main
 /*
 #include <stdio.h>
