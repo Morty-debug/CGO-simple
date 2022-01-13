@@ -1,5 +1,5 @@
-WINDOWS:
+
+### interpretar codigo
 ```batch
-go build main.go
-main.exe
+go run main.go
 ```
