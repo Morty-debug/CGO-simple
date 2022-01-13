@@ -2,12 +2,12 @@
 
 WINDOWS:
 ```batch
-compilar.bat
-ejecutar.bat
+go build main.go
+main.exe
 ```
 
 LINUX:
 ```sh
-./compilar.sh
-./ejecutar.sh
+go build main.go
+./main.sh
 ```
