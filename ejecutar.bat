@@ -1,2 +1,0 @@
-cls
-bin\main.exe
